@@ -1,0 +1,27 @@
+{
+  "name": "google-place-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycekbargar/google-place-types.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "places",
+    "api",
+    "place",
+    "types"
+  ],
+  "author": "Bryce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycekbargar/google-place-types/issues"
+  },
+  "homepage": "https://github.com/brycekbargar/google-place-types#readme"
+}
